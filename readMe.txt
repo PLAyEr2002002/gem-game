@@ -1,0 +1,1 @@
+The library of phaser framework is already included in the project, just run the live server through the html
